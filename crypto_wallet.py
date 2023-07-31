@@ -28,7 +28,7 @@ class CryptoWallet:
         for transaction in self.transactions:
             print(transaction)
 
-# .
+# .Eg
 def main():
     wallet = CryptoWallet()
 
