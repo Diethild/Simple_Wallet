@@ -20,7 +20,7 @@ class CryptoWallet:
         else:
             print("Insufficient balance.")
             return False
-
+#eg
     def get_balance(self):
         return self.balance
 
